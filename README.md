@@ -11,5 +11,7 @@ RSNA-MICCAI Brain Tumor Radiogenomic Classificationについて　　
 
 ## 20210919
 [TF] Simple Prediction with VGG16 (日本語)[https://www.kaggle.com/masatomurakawamm/tf-simple-prediction-with-vgg16]をやってみた。  
+0.368が出たね。完全にコピペだけどね。  
+
 
 
