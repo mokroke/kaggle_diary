@@ -17,5 +17,11 @@ RSNA-MICCAI Brain Tumor Radiogenomic Classificationについて　　
 [TPU] RSNA Keras 3D CNN Voxel Train [https://www.kaggle.com/sreevishnudamodaran/tpu-rsna-keras-3d-cnn-voxel-train]をちょっと読んでみる
  TPUで警告が出たからkaggleのnotebook上でやるのは厳しいようだ
  すごそうだけど、最初のとこしか読めてないから、configがパラメータの設定であることや、データの読み込みのとこくらいしかわからんかった。
+ 
+## 20210921
+昨日の続きを読んでた  
+やっぱり銀メダル取る人はすげーや。みたことあるコードで喜んでるけど、ほとんどわからん。  
+TPUを使ったコードを提出するのは難易度が高いから、ただコピペして提出するだけでも大変なんだなと思った。  
+もっとたくさん読んで勉強していきたい。
 
-
+[RSNA-MICCAI] Monai - ensemble[https://www.kaggle.com/mikecho/rsna-miccai-monai-ensemble]を読む。なんかシルバーのメダルついてる人のやつ。この人の参考資料みたいなのも後で読みたい。  
