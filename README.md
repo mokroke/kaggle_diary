@@ -24,4 +24,5 @@ RSNA-MICCAI Brain Tumor Radiogenomic Classificationについて　　
 TPUを使ったコードを提出するのは難易度が高いから、ただコピペして提出するだけでも大変なんだなと思った。  
 もっとたくさん読んで勉強していきたい。
 
-[RSNA-MICCAI] Monai - ensemble[~url~](https://www.kaggle.com/mikecho/rsna-miccai-monai-ensemble)を読む。なんかシルバーのメダルついてる人のやつ。この人の参考資料みたいなのも後で読みたい。  
+[RSNA-MICCAI] Monai - ensemble[~url~](https://www.kaggle.com/mikecho/rsna-miccai-monai-ensemble)を読む。なんかシルバーのメダルついてる人のやつ。この人の参考資料みたいなのも後で読みたい。 
+コードがめっちゃ綺麗だし、できそうな雰囲気もちょっとするし、すげえなこれ。
