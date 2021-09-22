@@ -33,4 +33,5 @@ DenceNetとResNetの違いを学んだ。どちらも層を深くするための
 処理重いし、解読も難しいから、他のnotebook行こうと思う。  
 [使用notebook:monai_silver]  
 Efficientnet3D with one MRI typeを読み進める。[~url~](https://www.kaggle.com/rluethy/efficientnet3d-with-one-mri-type)  
+この辺からkaggleのnotebookが動かなくなった。
 
