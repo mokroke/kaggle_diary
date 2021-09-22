@@ -28,4 +28,9 @@ TPUを使ったコードを提出するのは難易度が高いから、ただ�
 コードがめっちゃ綺麗だし、できそうな雰囲気もちょっとするし、すげえなこれ。
 
 ## 20210922
+昨日のmonaiのやつを読み進めてた。コード実行したけど、処理長すぎてほんとに終わる気がしない。epochが16もあるのに4時間でepoch2も終わってない。　　
+DenceNetとResNetの違いを学んだ。どちらも層を深くするためのモデルらしい。層が何百とかになってる。そら終わらんわ。  
+処理重いし、解読も難しいから、他のnotebook行こうと思う。  
+[使用notebook:monai_silver]  
+Efficientnet3D with one MRI typeを読み進める。[~url~](https://www.kaggle.com/rluethy/efficientnet3d-with-one-mri-type)  
 
