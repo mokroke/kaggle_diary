@@ -35,3 +35,7 @@ DenceNetとResNetの違いを学んだ。どちらも層を深くするための
 Efficientnet3D with one MRI typeを読み進める。[~url~](https://www.kaggle.com/rluethy/efficientnet3d-with-one-mri-type)  
 この辺からkaggleのnotebookが動かなくなった。
 
+## 20210923  
+昨日のEfiicientnet3Dのコードをいまだに読み解いてる。  
+need at least on array to stack の謎がいまだに解けない。  
+やばすぎる。
