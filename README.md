@@ -43,6 +43,6 @@ need at least on array to stack の謎がいまだに解けない。
 ## 20210924  
 Efficienetの3Dのコードの解読の続きをした。大体エラーが起こったところらへんまでたどり着いたけど、なんでそれが定義されてるのか全くわからんところがあった。  
 だからそのnotebookに書いてあった参考資料を辿ることにした。  
-🔥torch EfficientNet3d for 🧠 MRI [no 🌐][train]🔥[~url~](https://www.kaggle.com/furcifer/torch-efficientnet3d-for-mri-no-train)　　
+🔥torch EfficientNet3d for 🧠 MRI [no 🌐][train]🔥[~url~](https://www.kaggle.com/furcifer/torch-efficientnet3d-for-mri-no-train)  
 を読み進めて行こうと思う。  
 
