@@ -46,3 +46,8 @@ Efficienetの3Dのコードの解読の続きをした。大体エラーが起�
 🔥torch EfficientNet3d for 🧠 MRI [no 🌐][train]🔥[~url~](https://www.kaggle.com/furcifer/torch-efficientnet3d-for-mri-no-train)  
 を読み進めて行こうと思う。  
 
+## 20210925  
+torch EfficientNet3d の方を進めた。  
+まだdicom2arrayのところ。このnotebookにはnp.stackがなさそうだから、とりあえず動きそう。 
+コードを確認しつつ、色々試していきたい。
+
