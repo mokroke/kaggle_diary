@@ -51,3 +51,6 @@ torch EfficientNet3d の方を進めた。
 まだdicom2arrayのところ。このnotebookにはnp.stackがなさそうだから、とりあえず動きそう。 
 コードを確認しつつ、色々試していきたい。
 
+## 20210926  
+前回の続きを進めた。  
+
