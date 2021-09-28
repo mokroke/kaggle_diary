@@ -68,8 +68,8 @@ dicom2arrayについてとload_3d_dicom_imagesについて少しづつ理解で�
 今日はcodeで一番成績の良い人のnotebookを見た。🧠Brain Tumor 3D blender[~url~](https://www.kaggle.com/ammarnassanalhajali/brain-tumor-3d-blender)  
 これは4つの予測結果に重みをつけてブレンドしてるらしい。  
 ってことはこれを実現するには、その前の予測結果を出している部分についてみる必要がありそうだ。  
-この人は4つのnotebookを作っているっぽい。
-🧠Brain Tumor 3D [EDA][~url~] (https://www.kaggle.com/ammarnassanalhajali/brain-tumor-3d-eda)  
+この人は4つのnotebookを作っているっぽい。  
+🧠Brain Tumor 3D [EDA][~url~](https://www.kaggle.com/ammarnassanalhajali/brain-tumor-3d-eda)  
 🧠Brain Tumor 3D [Inference][~url~](https://www.kaggle.com/ammarnassanalhajali/brain-tumor-3d-inference)    
 🧠Brain Tumor 3D [Training][~url~](https://www.kaggle.com/ammarnassanalhajali/brain-tumor-3d-training)   
 これを一個一個見ていこうと思う。  
