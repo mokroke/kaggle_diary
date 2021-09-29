@@ -75,4 +75,7 @@ dicom2arrayについてとload_3d_dicom_imagesについて少しづつ理解で�
 これを一個一個見ていこうと思う。  
 まずはEDAから読み進めていく。
 
+## 20210929  
+今日は pocketさん『猫でも取れる金メダル & 猫しか取れない金メダル』- Kaggle meetup Tokyo #4　[~url~](https://www.youtube.com/watch?v=6DW5PCIo5qc)  
+を視聴した。discussionを見ることは意外に重要なんだなと思った。重要なところに絞ってやることを頑張っていきたい。行き詰まってきた今だからこそ。
 
