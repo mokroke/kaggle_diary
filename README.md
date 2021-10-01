@@ -86,13 +86,13 @@ dicom2arrayについてとload_3d_dicom_imagesについて少しづつ理解で�
 
 Google Brain - Ventilator Pressure Prediction
 ここからは別のコンペの「人工呼吸器の圧力の予測」に移ります  
-Ventilator Pressure Prediction: EDA, FE and models[url](https://www.kaggle.com/artgor/ventilator-pressure-prediction-eda-fe-and-models)  
+Ventilator Pressure Prediction: EDA, FE and models[~url~](https://www.kaggle.com/artgor/ventilator-pressure-prediction-eda-fe-and-models)  
 まずはこれで今回のコンペの内容を少しだけ学んだ。  
 時系列データっぽいけど回帰の問題なんだなってことや人工呼吸器のシュミレートをして、呼吸中の呼吸回路の気道圧力を正しく予測するものなんだなって知った。  
 あと、discussionにstarterのためのnotebookをまとめてくれてるところがあったからそこも拝見した。  
-[Compilation] Good starter notebooks[url](https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/275039)  
+[Compilation] Good starter notebooks[~url~](https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/275039)  
 
 ## 20211001  
-昨日のやったLightAutoML[url](https://www.kaggle.com/tsano430/lightautoml-starter)の模写で、スコアが0.284でた。多分10時間くらい動かせば0.244出たんだろうけど一時間だけだからこれくらいかなって感じ。その人にコメントしたらもっといいnotebook紹介してもらったから、そっちもみてみようと思う。
+昨日のやったLightAutoML[~url~](https://www.kaggle.com/tsano430/lightautoml-starter)の模写で、スコアが0.284でた。多分10時間くらい動かせば0.244出たんだろうけど一時間だけだからこれくらいかなって感じ。その人にコメントしたらもっといいnotebook紹介してもらったから、そっちもみてみようと思う。
 
 
