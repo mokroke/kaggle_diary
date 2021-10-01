@@ -92,4 +92,7 @@ Ventilator Pressure Prediction: EDA, FE and models[url](https://www.kaggle.com/a
 あと、discussionにstarterのためのnotebookをまとめてくれてるところがあったからそこも拝見した。  
 [Compilation] Good starter notebooks[url](https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/275039)  
 
+## 20211001  
+昨日のやったLightAutoML[url](https://www.kaggle.com/tsano430/lightautoml-starter)の模写で、スコアが0.284でた。多分10時間くらい動かせば0.244出たんだろうけど一時間だけだからこれくらいかなって感じ。その人にコメントしたらもっといいnotebook紹介してもらったから、そっちもみてみようと思う。
+
 
