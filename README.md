@@ -95,4 +95,10 @@ Ventilator Pressure Prediction: EDA, FE and models[~url~](https://www.kaggle.com
 ## 20211001  
 昨日のやったLightAutoML[~url~](https://www.kaggle.com/tsano430/lightautoml-starter)の模写で、スコアが0.284でた。多分10時間くらい動かせば0.244出たんだろうけど一時間だけだからこれくらいかなって感じ。その人にコメントしたらもっといいnotebook紹介してもらったから、そっちもみてみようと思う。
 
+## 20211002  
+今日は前回教えてもらった改善版を動かしていく。  
+LightAutoML + Bidirectional LSTM[~url~](https://www.kaggle.com/tsano430/lightautoml-bidirectional-lstm)  
+ってやつなんだけど、これを作るためにはImprovement base on Tensor Bidirect LSTM (0.173)[~url~](https://www.kaggle.com/tsano430/improvement-base-on-tensor-bidirect-lstm-0-173)  
+で作ったファイルが必要みたいだから、これも動かしていく。  
+codeやdiscassionを動かしてみながらも、自分でモデルを作ったりも進めていきたいなと思っている。
 
