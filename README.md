@@ -101,4 +101,6 @@ LightAutoML + Bidirectional LSTM[~url~](https://www.kaggle.com/tsano430/lightaut
 ってやつなんだけど、これを作るためにはImprovement base on Tensor Bidirect LSTM (0.173)[~url~](https://www.kaggle.com/tsano430/improvement-base-on-tensor-bidirect-lstm-0-173)  
 で作ったファイルが必要みたいだから、これも動かしていく。  
 codeやdiscassionを動かしてみながらも、自分でモデルを作ったりも進めていきたいなと思っている。
-
+ 
+## 20211003  
+今回も前回の続きをやる
