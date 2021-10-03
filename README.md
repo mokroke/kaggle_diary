@@ -103,4 +103,8 @@ LightAutoML + Bidirectional LSTM[~url~](https://www.kaggle.com/tsano430/lightaut
 codeやdiscassionを動かしてみながらも、自分でモデルを作ったりも進めていきたいなと思っている。
  
 ## 20211003  
-今回も前回の続きをやる
+今回も前回の続きをやる  
+並行しながら、Ensemble Folds with MEDIAN - [0.153][~url~](https://www.kaggle.com/cdeotte/ensemble-folds-with-median-0-153)  
+この人のnotebookも進めてた。 cupyとcudfが出てきてびっくりしたけど、gpuのときに使えて、高速で動くnumpyとpandasみたいなものらしい。  
+全然cupyが入らなくて大変だと思ったけど、結局acceleratorがGPUになっていなかったことが問題だった。それだけかぁと思ったけど、ライブラリによっては入るものと入らないものがあるのだと知って、勉強になった。あと、pip installのときに-yを入れるとショートカットできるの地味にいいな。
+
