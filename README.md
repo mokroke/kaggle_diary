@@ -137,7 +137,9 @@ discassionを3つほど読んだ。なんか日本人の人もそこそこいる
 discassionを二つほど見た。特徴量を作るときに色々試行錯誤しているのだと知って、自分も色々試してみようと思った。  
 
 ## 20211009  
-
+LSTMとBILSTMを少し学ぼうと思った。[Compilation] Good starter notebooks[~url~](https://www.kaggle.com/c/ventilator-pressure-prediction/discussion/275039)    
+を参照して、LightAutoML Continuer :)[~url~](https://www.kaggle.com/alexryzhkov/lightautoml-continuer)  
+を見ながらやっていこうと思う
 
 
 
