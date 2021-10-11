@@ -141,5 +141,9 @@ LSTMとBILSTMを少し学ぼうと思った。[Compilation] Good starter noteboo
 を参照して、LightAutoML Continuer :)[~url~](https://www.kaggle.com/alexryzhkov/lightautoml-continuer)  
 を見ながらやっていこうと思う
 
+## 20211010  
+LSTMについて勉強していた。Youtubeで解説動画見てたけど、まだ、 lstmって普通のディープラーニングより過去の情報を持って置けるってことくらいしかわからない。だからどうやって使うのかこれからもうちょっと知っていきたい。
 
+## 20211011  
+LSTMの勉強を引き続き続けた。
 
