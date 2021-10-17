@@ -162,3 +162,7 @@ discussionを読んで、fold数について学んだ。確かに5foldよりも1
 
 ## 20211016
 注意深くdiscussionを読んでcodeを直せば銀の中間くらいにいけるらしい。大事なのはまず発想力じゃない。基礎的なことを学ぶ能力とコードの内容を紐解ける能力と、学習の時間をどうやって取るかっていうことだけだ。
+
+## 20211017
+なんかpytorchのコード載ってたけど、もしかしたらちょっと読めそうかなと思った。PyTorch LSTM with TensorFlow-like initialization[~url~](https://www.kaggle.com/junkoda/pytorch-lstm-with-tensorflow-like-initialization/notebook)  
+SELUとかいうRELUの負の値も取れるバージョンもあるんだって。すごいね。まだまだ知らないことがたくさんある。
