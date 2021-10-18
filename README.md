@@ -166,3 +166,10 @@ discussionを読んで、fold数について学んだ。確かに5foldよりも1
 ## 20211017
 なんかpytorchのコード載ってたけど、もしかしたらちょっと読めそうかなと思った。PyTorch LSTM with TensorFlow-like initialization[~url~](https://www.kaggle.com/junkoda/pytorch-lstm-with-tensorflow-like-initialization/notebook)  
 SELUとかいうRELUの負の値も取れるバージョンもあるんだって。すごいね。まだまだ知らないことがたくさんある。
+
+## 20211018
+よっしゃdiscussion読むぞ  
+時間がかかる問題がやっぱりあるらしくて、インタラクティブにやる方法だったり、オンラインのコンピュータを借りる方法だったり色々あるらしい。　
+この辺の環境構築についても学んでいけたらもっと楽しくなりそうな気もしている
+モンテカルロドロップアウト法っていうのがあるんだね。知らんかった。  
+これからも細く長く続けていきたい。
