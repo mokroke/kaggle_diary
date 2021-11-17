@@ -268,5 +268,5 @@ mainのclassを見ながら読んでみたら読み飛ばせるくらいには�
 使用ファイル：first_check_and_try
 
 ## 20211117
-今日も引き続きTutorial to the G-Research Crypto Competitionを進めた。最後までいったので次のnotebookでも覗いてみようかなと思う。
-使用ファイル：first_check_and_try
+今日も引き続きTutorial to the G-Research Crypto Competitionを進めた。最後までいったので次のnotebookでも覗いてみようかなと思う。チュートリアルは大体終わった。APIのやつも一通り目を通したから、あとはやるだけ。
+使用ファイル：first_check_and_try, first_api_try, 
