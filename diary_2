@@ -1,3 +1,8 @@
+2021/11/24
+model.fitのところで久しぶりにverboseが出てきたから今回はちゃんと調べようと思って調べた(https://www.notion.so/verbose-a0497f2ddb7f4237818ab98da153b455)
+verbose=1がdefaultで全部表示。verbose=2はそこからプログレスバーがないバージョン。verbose=0だと表示なしなんだって。
+調べてみると簡単だけど、意外に知らないよね。
+
 2021/11/23
 3日ぶりにどうもこんにちは。
 今日はPuregedGroupTimeSeriesSplitについて勉強した。と言ってもGroupTimeSeriesSplitがメインでPurgedの方はよくわからなかった。
