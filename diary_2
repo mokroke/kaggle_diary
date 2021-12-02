@@ -1,4 +1,8 @@
 2021/12/02
+LBはもうTrainDataの中に入ってるからまじで意味ないけど、意味あるようにしようとしたnotebookがある
+[**🪙💲 Proposal for a meaningful LB + Strict LGBM**]([https://www.kaggle.com/julian3833/proposal-for-a-meaningful-lb-strict-lgbm](https://www.kaggle.com/julian3833/proposal-for-a-meaningful-lb-strict-lgbm))
+まず読み込むときにLBのは入れないようにしようねってことだった。
+てかこのnotebookめっちゃ簡潔で見やすいから、これを参考に細かく見ていってもいいなってちょっと思った。
 
 2021/12/01
 かぐるべんきょーかいに出た。NFLの物体検出をやってて、こんな世界もあるんだなと思った。ヘルメットと選手を紐づけるやつらしい。物体検出でヘルメットを検出してから選手の割り当てをするみたい。
