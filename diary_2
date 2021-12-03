@@ -1,3 +1,7 @@
+20211203
+`tf.distribute.cluster_resolver.TPUClusterResolver()`
+について調べた。なんかapi的な話だった。tpu.master()はちょっとわかんない。
+
 2021/12/02
 LBはもうTrainDataの中に入ってるからまじで意味ないけど、意味あるようにしようとしたnotebookがある
 [**🪙💲 Proposal for a meaningful LB + Strict LGBM**]([https://www.kaggle.com/julian3833/proposal-for-a-meaningful-lb-strict-lgbm](https://www.kaggle.com/julian3833/proposal-for-a-meaningful-lb-strict-lgbm))
