@@ -1,3 +1,8 @@
+20211205
+前回の中でわからなかったtpu.masterについて調べた。
+notebook内でクラスだったり、メソッドの中身を見れるのは面白いなって思った。
+クラスの中身までみまくってちゃんと理解できるようになりたい。
+
 20211203
 `tf.distribute.cluster_resolver.TPUClusterResolver()`
 について調べた。なんかapi的な話だった。tpu.master()はちょっとわかんない。
