@@ -10,7 +10,7 @@
 もしかしたら、ディスカッションを徹底的に調べて、まとめてわかりやすくするだけでも自分の勉強になるし、他の人のためにもなるんじゃないか。
 俺は文字を作り出すのは苦手かもしれないけど、まとめてわかりやすくするのは得意な気がする。
 試しにこのディスカッションをわかりやすくまとめてみる。
-「Eval Metric, Target, Weights」(https://www.kaggle.com/c/g-research-crypto-forecasting/discussion/286778)
+[Eval Metric, Target, Weights](https://www.kaggle.com/c/g-research-crypto-forecasting/discussion/286778)
 
 ## 20211230　79日目
 今日でNN forkの全てが終了した。長かった。
@@ -107,7 +107,7 @@ NNのstarterをやってみたけど、微妙に書き漏らしのあるコー�
 続きはGPUの環境構築について進めようと思う
 
 ## 2021/11/24　57日目
-model.fitのところで久しぶりにverboseが出てきたから今回はちゃんと調べようと思って調べた(https://www.notion.so/verbose-a0497f2ddb7f4237818ab98da153b455)
+model.fitのところで久しぶりにverboseが出てきたから今回はちゃんと調べようと思って調べた[url](https://www.notion.so/verbose-a0497f2ddb7f4237818ab98da153b455)
 verbose=1がdefaultで全部表示。verbose=2はそこからプログレスバーがないバージョン。verbose=0だと表示なしなんだって。
 調べてみると簡単だけど、意外に知らないよね。
 てか普通にnotebookに書いてあって笑った。
@@ -116,7 +116,7 @@ verbose=1がdefaultで全部表示。verbose=2はそこからプログレスバ�
 3日ぶりにどうもこんにちは。
 今日はPuregedGroupTimeSeriesSplitについて勉強した。と言ってもGroupTimeSeriesSplitがメインでPurgedの方はよくわからなかった。
 GroupTimeSeriesSplitは日にちがtrainとtestで半分にならないように気を付けてくれてるっぽい。それでPurgedの方は期間を設定してるっぽい。
-わからんけど。(https://www.notion.so/Purged-Time-Series-CV-ebe82c150156488db1009e6b3f1cca44)これでnotionのページに飛べるよ
+わからんけど。[url](https://www.notion.so/Purged-Time-Series-CV-ebe82c150156488db1009e6b3f1cca44)これでnotionのページに飛べるよ
 
 ## 2021/11/20　55日目
 callback関数を使っていたけど、学習率を変化させて行くものを使ってた。まだなんで学習率を変化させるのかどうやって変化させているのかわからないけど、
@@ -135,5 +135,5 @@ pergedTimeSeriesCVとかいうちょっとまだよくわかんないものあ�
 今日からG-Researchについてやっていきたいと思う。
 参考notebook [G-Research- Starter LGBM Pipeline][~url~](https://www.kaggle.com/julian3833/g-research-starter-lgbm-pipeline)
 とりあえず提出することができたからよしとしようかな。
-今度はこの人のnotebookが面白そう[1st Place of Jane Street 🏆 ➜ Adapted to Crypto 👌][~url~][https://www.kaggle.com/yamqwe/1st-place-of-jane-street-adapted-to-crypto]
+今度はこの人のnotebookが面白そう[1st Place of Jane Street 🏆 ➜ Adapted to Crypto 👌][~url~](https://www.kaggle.com/yamqwe/1st-place-of-jane-street-adapted-to-crypto)
 たくさんの手法が載ってるからこれを読んでるだけでも勉強になると思う。当分はこれをコツコツやろうかな。
